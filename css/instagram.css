@@ -1,0 +1,95 @@
+table {
+  width: 40%;
+  margin: 2% 30% 0 30%;
+  border: 1px solid #c5c5c5;
+  border-radius: 0.5%;
+  border-bottom: 1px solid #c5c5c5;
+  background-color: white;
+}
+
+tr {
+  border: 1px solid grey;
+}
+
+.im2 {
+  float: right;
+  /*margin: 0 20% 0 0;*/
+}
+
+.im1 {
+  margin: 0 0 0 20%;
+}
+
+.imgs {
+  float: right;
+  margin: 1% 25% 0 0;
+}
+
+.av {
+  width: 50px;
+  height: 50px;
+  border-radius: 60%;
+  float: left;
+  margin-right: 8px;
+  margin-top: 2px;
+  margin-left: 2px;
+  border: 2px solid white;
+}
+
+.grey {
+  color: grey;
+}
+
+td {
+  padding: 5px 0 0 30px;
+
+}
+
+div {
+  background-color: white;
+
+}
+ .totalim {
+   color: white;
+ }
+
+ body {
+   background-color: snow;
+ }
+.news {
+  width: 40%;
+  margin: 2% 30% 0 30%;
+  border: 1px solid #c5c5c5;
+}
+ .light-blue {
+   color: white;
+   background-color:#3897f0;
+   border-radius: 1px;
+
+ }
+
+ .hog {
+   width: 50px;
+   float: left;
+   height: 50px;
+   border-radius: 60%;
+   margin: 8px 0 0 8px;
+  }
+
+.quid {
+  width: 100%;
+  height: 500px;
+}
+
+.likecomm {
+  margin-left: 12px;
+}
+
+p {
+  font-family: font-family: 'Rajdhani', sans-serif;
+}
+
+input {
+  width: 99%;
+  margin-bottom: 2px;
+}
