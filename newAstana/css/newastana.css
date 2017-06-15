@@ -1,0 +1,127 @@
+
+body {
+  background-image: url(http://oasis-1.kz/uploads/offers/66/avatar_186_66.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  background-size: cover;
+  margin: 0;
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: 'Cormorant Unicase', serif;
+}
+
+header {
+  background-color: #e8b4bd;
+  opacity: 0.9;
+}
+
+a {
+  color: white;
+  text-decoration: none; /*udalyaet podcherkivaniye*/
+  margin-left: 20px;
+}
+
+a:hover {
+  color: #e8b4bd;
+  font-weight: bold;
+}
+
+.menu {
+  /*position: absolute;*/
+  top: 20px;
+  right: 20px;
+  position: fixed;
+  background-color: #b2b3b3;
+  opacity: 0.9;
+}
+nav{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+}
+
+.welcome {
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 3%;
+  text-shadow: 3px 2px #e8b4bd;
+  opacity: 0.9;
+}
+
+.aktualno {
+  background-image: url("../images/snow.jpg");
+  height: 55vh;
+  background-size: cover;
+  width: 50%;
+  float: left;
+}
+
+.info {
+  background: black;
+  float: right;
+  width: 50%;
+
+}
+
+.firstpart {
+  background-color: #e8b4bd;
+  float: right;
+  width: 50%;
+  opacity: 0.9;
+}
+
+.photo1 {
+  background-image: url(http://4.bp.blogspot.com/-HD4dy4GLsUY/U__qrO_N3MI/AAAAAAAAANU/CPMIFfxwihk/s1600/beach_web__636.jpg);
+  height: 48.165vh;
+  background-size: auto;
+  background-repeat: round;
+  opacity: 0.9;
+  width: 50%;
+  float: left;
+}
+
+.secondpart {
+  background-color: #b2b3b3;
+  float: left;
+  opacity: 0.9;
+  width: 50%;
+}
+
+.photo2 {
+  background-image: url(http://www.inform.kz/fotoarticles/20140530185949.jpg);
+  height: 53.67vh;
+  background-size: contain;
+  background-repeat: round;
+  opacity: 0.9;
+  width: 50%;
+  float: right;
+}
+
+.video {
+  width: 50%;
+  float: left;
+}
+
+.saturday {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #b2b3b3;
+  opacity: 0.9;
+  text-align: center;
+  margin-top: 80%;
+}
+
+.sunday {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #e8b4bd;
+  opacity: 0.9;
+  text-align: center;
+  margin-top: 0;
+}
