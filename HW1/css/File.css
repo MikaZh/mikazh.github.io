@@ -1,0 +1,43 @@
+
+body {
+  background: grey;
+}
+h1 {
+  font-size: 45px;
+  color: pink;
+  width: 40%;
+}
+
+img {
+  margin: 20px 0 0 5px;
+
+}
+
+.font {
+  font-size: 38px;
+  background: #7c897a;
+  padding: 10px;
+  border: 1px solid pink;
+  border-radius: 10px;
+  width: 40%;
+
+}
+span {
+  font-family: 'Pangolin', cursive;
+}
+
+a {
+  font-family: 'Pangolin', cursive;
+  color: white;
+  text-decoration: none;
+}
+.mika:hover {
+  color: blue;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+ul {
+list-style: square;
+
+  }
